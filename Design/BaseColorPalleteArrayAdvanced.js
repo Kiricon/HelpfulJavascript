@@ -1,0 +1,23 @@
+ColorPalette = [
+    {'name': 'red', 'hex': '#F44336', 'text': 'white'},
+    { 'name': 'pink', 'hex': '#E91E63', 'text': 'white' },
+    { 'name': 'purple', 'hex': '#9C27B0', 'text': 'white' },
+    { 'name': 'deep purple', 'hex': '#673AB7', 'text': 'white' },
+    { 'name': 'indigo', 'hex': '#3F51B5', 'text': 'white' },
+    { 'name': 'blue', 'hex': '#2196F3', 'text': 'white' },
+    { 'name': 'light blue', 'hex': '#03A9F4', 'text': 'black' },
+    {'name': 'cyan', 'hex':'#00BCD4', 'text': 'black'},
+    { 'name': 'teal', 'hex': '#009688', 'text': 'white' },
+    { 'name': 'green', 'hex': '#4CAF50', 'text': 'black' },
+    { 'name': 'light green', 'hex': '#8BC34A', 'text': 'black' },
+    { 'name': 'lime', 'hex': '#CDDC39', 'text': 'black' },
+    { 'name': 'yellow', 'hex': '#FFEB3B', 'text': 'black' },
+    { 'name': 'amber', 'hex': '#FFC107', 'text': 'black' },
+    { 'name': 'orange', 'hex': '#FF9800', 'text': 'black' },
+    { 'name': 'deep orange', 'hex': '#FF%&22', 'text': 'white' },
+    { 'name': 'brown', 'hex': '#795548', 'text': 'white' },
+    { 'name': 'grey', 'hex': '#9E9E9E', 'text': 'black' },
+    { 'name': 'blue grey', 'hex': '#607D8B', 'text': 'white' },
+    { 'name': 'black', 'hex': '#000000', 'text': 'black' },
+    { 'name': 'white', 'hex': '#FFFFFF', 'text': 'white' }
+    ];
