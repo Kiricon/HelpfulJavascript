@@ -14,7 +14,7 @@ var ColorPalette = [
     { 'name': 'yellow', 'hex': '#FFEB3B', 'text': 'black' },
     { 'name': 'amber', 'hex': '#FFC107', 'text': 'black' },
     { 'name': 'orange', 'hex': '#FF9800', 'text': 'black' },
-    { 'name': 'deep orange', 'hex': '#FF%&22', 'text': 'white' },
+    { 'name': 'deep orange', 'hex': '#FF5722', 'text': 'white' },
     { 'name': 'brown', 'hex': '#795548', 'text': 'white' },
     { 'name': 'grey', 'hex': '#9E9E9E', 'text': 'black' },
     { 'name': 'blue grey', 'hex': '#607D8B', 'text': 'white' },
