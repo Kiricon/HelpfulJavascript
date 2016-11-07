@@ -14,7 +14,7 @@ var ColorPalette = {
     'yellow': '#FFEB3B',
     'amber': '#FFC107',
     'orange': '#FF9800',
-    'deep orange': '#FF%&22',
+    'deep orange': '#FF5722',
     'brown': '#795548',
     'grey': '#9E9E9E',
     'blue grey': '#607D8B',
