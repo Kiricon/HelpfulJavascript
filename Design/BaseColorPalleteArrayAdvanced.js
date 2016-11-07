@@ -18,6 +18,6 @@ var ColorPalette = [
     { 'name': 'brown', 'hex': '#795548', 'text': 'white' },
     { 'name': 'grey', 'hex': '#9E9E9E', 'text': 'black' },
     { 'name': 'blue grey', 'hex': '#607D8B', 'text': 'white' },
-    { 'name': 'black', 'hex': '#000000', 'text': 'black' },
-    { 'name': 'white', 'hex': '#FFFFFF', 'text': 'white' }
+    { 'name': 'black', 'hex': '#000000', 'text': 'white' },
+    { 'name': 'white', 'hex': '#FFFFFF', 'text': 'black' }
     ];
