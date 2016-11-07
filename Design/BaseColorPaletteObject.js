@@ -1,4 +1,4 @@
-ColorPalette = {
+var ColorPalette = {
     'red': '#F44336',
     'pink': '#E91E63',
     'purple': '#9C27B0',
