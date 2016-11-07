@@ -1,4 +1,4 @@
-ColorPalette = [
+var ColorPalette = [
     {'name': 'red', 'hex': '#F44336', 'text': 'white'},
     { 'name': 'pink', 'hex': '#E91E63', 'text': 'white' },
     { 'name': 'purple', 'hex': '#9C27B0', 'text': 'white' },
